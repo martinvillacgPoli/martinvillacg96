@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @martinvillacgPoli
-- 👀 I’m interested in ... Computational mechanical Design
+- 👋 Hi, I’m @martinvillacg
+- 👀 I’m interested in ... Computational Mechanical Design
 - 🌱 I’m currently learning ... Everything
 - 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... @martinvillacg
-- 😄 Pronouns: ... Cool/King
 - ⚡ Fun fact: ... I like art
 
 <!---
